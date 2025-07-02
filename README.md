@@ -62,7 +62,7 @@ The dataset used in this project contains patient information with the following
 
 Here are some dashboard views from the project:
 
-![Dashboard 1](images/Screenshot_2025_07_01_125136.png)
+![Dashboard 1](images/Screenshot_2025-07-01_125136.png)
 ![Dashboard 2](images/Screenshot_2025_07_01_125253.png)
 ![Dashboard 3](images/Screenshot_2025_07_01_125240.png)
 ![Dashboard 4](images/Screenshot_2025_07_01_125219.png)
